@@ -12,8 +12,6 @@ This repository contains my submission for the DeepThought Business Analytics in
   - Sourcing strategy and 1000-company scale-up proposal
 - `deepthought-fails-appendix.md`
   - Excluded and borderline companies with reasons
-- `Executive Summary.pdf`
-  - Supporting executive-summary draft used during preparation
 
 ## Submission Direction
 
